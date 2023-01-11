@@ -1,4 +1,4 @@
-# replaceAll
+# replaceAll.js
 replaceAll library js by [Aahedi](https://github.com/aahedi/)
 ## Usage
 

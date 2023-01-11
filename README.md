@@ -2,7 +2,9 @@
 replaceAll library js by [Aahedi](https://github.com/aahedi/)
 ## Usage
 
-```replaceAll('123hedi456 abchediefg 123hedi abchedi hedi456 hediefg 123Hedi456',
+```
+replaceAll(
+'123hedi456 abchediefg 123hedi abchedi hedi456 hediefg 123Hedi456',
 'hedi',
 '****', 
 {prefix_is:'123',

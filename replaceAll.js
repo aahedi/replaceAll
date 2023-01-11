@@ -1,5 +1,4 @@
 //replaceAll library js by Aahedi https://github.com/aahedi/replaceAll
-
 function replaceAll(str, find, replace, options) {
 	var gx = 'g';
 	var regExp = new RegExp('\\b' + find + '\\b','g');
